@@ -1,0 +1,26 @@
+
+1. Go to folder that contains code
+   
+   cd sabakanwal_L181860_Assign1
+
+2. Compile Code
+   
+   gcc sh.c
+
+3. Open 6.828 Shell
+
+   ./a.out
+
+4. Write command to execute and press enter
+
+5. Press Control C to exit 6.828 Shell
+
+
+If input file(t.sh) contains all commands you can run it by
+
+./a.out < t.sh  -See output on the terminal
+
+
+You can write out output to a file output.txt
+
+./a.out < t.sh > output.txt

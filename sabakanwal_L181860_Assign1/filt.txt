@@ -1,0 +1,8 @@
+a.out
+filt.txt
+output.txt
+README
+sh.c
+shell-commands-output.png
+t.sh
+x.txt
